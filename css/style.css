@@ -350,13 +350,13 @@ a, a:hover{
 	border: 1px solid #3d2514;
 }
 .reserve .contact-form .form-control:focus{
-	background: transparent;
-    border: 1px solid #3d2514;
-    box-shadow: 0 0 0 0 #3d2514;
+       background: transparent;
+       border: 1px solid #3d2514;
+       box-shadow: 0 0 0 0 #3d2514;
 }
 
 .submit .btn-primary{
-    padding: 12px 90px;
+        padding: 15px 122px;     
 	font-size: 16px;
 	line-height: 26px;
 	font-weight: 700;
@@ -366,11 +366,10 @@ a, a:hover{
 	background: #bf2222;
 	border: 1px solid #bf2222;
 	text-transform: uppercase;
-	text-transform: 1s;
-	margin: 0px 15px 0px 0px;
+	transition: 1s;
 }
 .reserve .submit .btn-primary:hover, .reserve .submit .btn-primary:focus{
-    color: #3d2514;
+        color: #3d2514;
 	background: transparent;
 	border: 1px solid #3d2514;
 }
@@ -386,7 +385,7 @@ a, a:hover{
 	
 }
 .bg p{
-	 font-family: 'Montserrat', sans-serif;
+	font-family: 'Montserrat', sans-serif;
 	font-size: 18px;
 	line-height: 28px;
 	font-weight: 400;
@@ -396,7 +395,7 @@ a, a:hover{
 .bg h4{
 	font-family: 'Bebas Neue', cursive;
 	color: #fff;
-    text-transform: uppercase;
+        text-transform: uppercase;
 }
 
 .burger-house .icon{
@@ -409,6 +408,6 @@ a, a:hover{
 	margin: 20px 0px 0px 20px;
 }
 .icon a{
-	font-family: 'Bebas Neue', cursive;
+    font-family: 'Bebas Neue', cursive;
     margin: 0px 0px 0px 20px;
 }
